@@ -10,7 +10,7 @@ Requirements:
 - LatchKey (found here)
 - Filza (Downloadable on Cydia)
 
-Download the .bundle file by clicking here
+Download the .bundle (zipped) file by clicking [here](https://github.com/par5ul1/Spacemask/blob/master/Spacemask.zip?raw=true)
 
 Open Filza and navigate to /Library/Application Support/LatchKey/Themes
 
@@ -32,4 +32,6 @@ Tap on Save Values and Respring your device. You should now have the LatchKey th
 
 # Wallpaper
 
-This theme works (almost exclusively) in unity with this wallpaper which I have edited to be have a darker background and make use of iPhone X's beautiful OLED display. I do not know who the original creator of this wallpaper is but credits go to them.
+This theme works (almost exclusively) in unity with [this](https://i.imgur.com/LfMx1vX.jpg) wallpaper which I have edited to be have a darker background and make use of iPhone X's beautiful OLED display. I do not know who the original creator of the wallpaper is but credits go to them.
+
+When applying the wallpaper, make sure the option is set to Still and not Perspective and that you do not shift the image as that would mess up the settings above.
