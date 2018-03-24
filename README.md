@@ -7,7 +7,7 @@ A Spacemask theme for LatchKey (jailbreak tweak)
 
 Requirements:
 - Jailbroken iPhone X
-- LatchKey (found here)
+- LatchKey (found [here](https://www.reddit.com/r/jailbreak/comments/81hiah/release_mdauschs_latchkey_as_an_easily/))
 - Filza (Downloadable on Cydia)
 
 Download the .bundle (zipped) file by clicking [here](http://bit.ly/2pELxgs)
