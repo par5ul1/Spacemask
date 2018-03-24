@@ -38,6 +38,6 @@ When applying the wallpaper, make sure the option is set to Still and not Perspe
 
 # Donations
 
-Any donation is much appreciated. I simply ask for 50 cents so that I can pay for tweaks – as my parents don't think I should spend their money on Cydia – but any amount is perfect (even $0). Here's the button in case you wanna help out:
+Any donation is much appreciated. I simply ask for ¢50 so that I can pay for tweaks – as my parents don't think I should spend their money on Cydia – but any amount is perfect (even $0). Here's the button in case you wanna help out:
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?longCache=true&style=flat)](https://www.paypal.me/parsuli12/0.50usd)
