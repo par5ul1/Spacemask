@@ -10,15 +10,15 @@ Requirements:
 - LatchKey (found here)
 - Filza (Downloadable on Cydia)
 
--- Download the .bundle file by clicking here
--- Open Filza and navigate to /Library/Application Support/LatchKey/Themes
--- Paste the folder here
-Open Settings and go to LatchKey's Preferences
-Change Theme to *Spacemask*
-Change Position to *Custom*
-X Position: 189
-Y Position: 520
-Scale: 0.58
+Download the .bundle file by clicking here\n
+Open Filza and navigate to /Library/Application Support/LatchKey/Themes\n
+Paste the folder here\n
+Open Settings and go to LatchKey's Preferences\n
+Change Theme to *Spacemask*\n
+Change Position to *Custom*\n
+X Position: 189\n
+Y Position: 520\n
+Scale: 0.58\n
 
 Tap on Save Values and Respring your device. You should no have the LatchKey theme.
 
