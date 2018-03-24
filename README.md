@@ -10,9 +10,9 @@ Requirements:
 - LatchKey (found here)
 - Filza (Downloadable on Cydia)
 
-Download the .bundle file by clicking here
-Open Filza and navigate to /Library/Application Support/LatchKey/Themes
-Paste the folder here
+-- Download the .bundle file by clicking here
+-- Open Filza and navigate to /Library/Application Support/LatchKey/Themes
+-- Paste the folder here
 Open Settings and go to LatchKey's Preferences
 Change Theme to *Spacemask*
 Change Position to *Custom*
