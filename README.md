@@ -35,3 +35,9 @@ Tap on Save Values and Respring your device. You should now have the LatchKey th
 This theme works (almost exclusively) in unity with [this](https://i.imgur.com/LfMx1vX.jpg) wallpaper which I have edited to be have a darker background and make use of iPhone X's beautiful OLED display. I do not know who the original creator of the wallpaper is but credits go to them.
 
 When applying the wallpaper, make sure the option is set to Still and not Perspective and that you do not shift the image as that would mess up the settings above.
+
+# Donations
+
+Any donation is much appreciated. I simply ask for 50 cents so that I can pay for tweaks – as my parents don't think I should spend their money on Cydia – but any amount is perfect (even $0). Here's the button in case you wanna help out:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?longCache=true&style=flat)](https://www.paypal.me/parsuli12/0.50usd)
