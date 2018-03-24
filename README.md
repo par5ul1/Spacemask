@@ -10,7 +10,7 @@ Requirements:
 - LatchKey (found here)
 - Filza (Downloadable on Cydia)
 
-Download the .bundle (zipped) file by clicking [here](https://github.com/par5ul1/Spacemask/blob/master/Spacemask.zip?raw=true)
+Download the .bundle (zipped) file by clicking [here](http://bit.ly/2pELxgs)
 
 Open Filza and navigate to /Library/Application Support/LatchKey/Themes
 
@@ -40,4 +40,4 @@ When applying the wallpaper, make sure the option is set to Still and not Perspe
 
 Any donation is much appreciated. I simply ask for ¢50 so that I can pay for tweaks – as my parents don't think I should spend their money on Cydia – but any amount is perfect (even $0). Here's the button in case you wanna help out:
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?longCache=true&style=flat)](https://www.paypal.me/parsuli12/0.50usd)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?longCache=true&style=flat)](http://bit.ly/2pCZJ8V)
